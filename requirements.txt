@@ -1,0 +1,5 @@
+opencv-python
+numpy
+OpenEXR
+Imath
+matplotlib
