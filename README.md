@@ -1,4 +1,6 @@
 # Shape_from_Polarization_Tutorial
+请阅读  `SfP基础讲解.pdf`  并完成pdf中的测试
+
 **测试提交要求**
 
 - **test1/**
